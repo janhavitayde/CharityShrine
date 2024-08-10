@@ -4,6 +4,6 @@ CharityShrine is a simple and user-friendly charity website built using the Djan
 
 Key Features:
 
-Database Integration: The website utilizes Django's ORM to manage and store data in a relational database.
-Campaign Management: Admin interface to create and manage charity campaigns.
-Donation Tracking: Users can view their donation history and receive updates on the impact of their contributions.
+- Database Integration: The website utilizes Django's ORM to manage and store data in a relational database.
+- Campaign Management: Admin interface to create and manage charity campaigns.
+- Donation Tracking: Users can view their donation history and receive updates on the impact of their contributions.
